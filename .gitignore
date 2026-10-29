@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+runs/
+my_runs/
+my_yolo_dataset/

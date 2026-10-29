@@ -1,0 +1,5 @@
+train: C:/Users/YuHeng/Desktop/learning/模型微调/my_yolo_dataset/images/train
+val: C:/Users/YuHeng/Desktop/learning/模型微调/my_yolo_dataset/images/val
+
+names:
+  0: grapes
